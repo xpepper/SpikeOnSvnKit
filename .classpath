@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/svnkit-cli.jar"/>
+	<classpathentry kind="lib" path="lib/svnkit-javahl.jar"/>
+	<classpathentry kind="lib" path="lib/svnkit.jar"/>
+	<classpathentry kind="lib" path="lib/trilead.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="lib" path="lib/ccl.jar"/>
+	<classpathentry kind="lib" path="lib/javacc.jar"/>
+	<classpathentry kind="lib" path="lib/javancss.jar"/>
+	<classpathentry kind="lib" path="lib/jhbasic.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
